@@ -1,0 +1,12 @@
+
+\.idea/
+
+build/
+
+*.pyc
+
+data/
+
+\.cache/
+
+logs/

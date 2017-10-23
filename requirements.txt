@@ -1,0 +1,9 @@
+populus==1.7.0
+web3==3.11.1
+py-solc==1.2.1
+py-geth==1.9.0
+ethereum-abi-utils==0.4.0
+ethereum-utils==0.4.0
+click
+mock
+pytest-mock
